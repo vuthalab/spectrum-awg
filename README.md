@@ -1,4 +1,4 @@
-# Spectrum M4i.6622-x8 Library
+# Arbitrary Waveform Generator Library (Spectrum Instruments M4i.6622-x8) 
 This software is for controlling the [M4i.6622-x8 Arbitrary Waveform Generator](https://spectrum-instrumentation.com/en/m4i6622-x8) (AWG) from Spectrum Instrumentation, using Python. The code lets you pass in any function of your choosing and makes the AWG produce the corresponding waveform. The code takes advantage of NumPy's meshgrid object to load the waveform onto the card with minimal latency.
 
 ### Prerequisites
