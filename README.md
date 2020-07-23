@@ -126,7 +126,7 @@ This parameter is only used when the reference clock is being used (the referenc
 This parameter sets whether or not the the M4i.6622 will output its internal clock. By default it's set to False.
 
 # Authors and Contributors
-Ryan Zazo, Mingde Yin, Amar Vutha
+Ryan Zazo, Mingde Yin, Amar Vutha. University of Toronto.  http://uoft.me/vutha
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details
